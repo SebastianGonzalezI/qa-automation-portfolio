@@ -23,3 +23,10 @@ Construir un portafolio profesional con proyectos reales de automatización de p
 - GitHub Actions
 - k6
 - Python / JavaScript
+
+## Workflow
+
+Este repositorio sigue buenas prácticas de Git:
+- Uso de ramas feature/*
+- Pull Requests
+- Commits descriptivos
